@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/cxapi/:path*", "destination": "https://edu.coreapi.cc.cd/api/apnacollege/v2/:path*" }
+  ]
+}
